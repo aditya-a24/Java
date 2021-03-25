@@ -15,6 +15,5 @@ public class Fibonacci_series {
             a = b;
             b = c;
         }
-        printFibonacci(n - 2);
     }
 }
