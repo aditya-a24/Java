@@ -16,7 +16,7 @@ public class Fibonacci_series_02 {
     }
 
     public static void main(String args[]) {
-        int a = 0, b = 1, c = 0;
+        int a = 0, b = 1;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter how many numbers you want to print : ");
         int n = sc.nextInt();
